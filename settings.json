@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "fade_duration": 2,
+    "countdown_url": "https://www.youtube.com/watch?v=qW9N8XjUkIE",
+    "countdown_start_time": 1,
+    "countdown_end_time": 5,
+    "countdown_fade_duration": 1,
+    "countdown_start_offset": 0.75,
+    "countdown_end_offset": 0.7,
+    "mp3_only": false
+  },
+  "columns": {
+    "song_name": "C",
+    "song_artist": "D",
+    "url": "J",
+    "start_ts": "K",
+    "end_ts": "L",
+    "is_mirrored": "P"
+  }
+}
